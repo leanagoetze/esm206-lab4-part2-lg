@@ -1,1 +1,9 @@
-# esm206-lab4-part2-lg
+# My awesome Readme!
+
+-some
+-bullet
+-points
+
+and other **usefull information**
+
+#yay#
